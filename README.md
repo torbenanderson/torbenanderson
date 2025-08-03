@@ -19,7 +19,7 @@ I'm **Torben Anderson**, a fractional CTO, founder of [Rewired.one](https://www.
 
 ### 🔥 Most Used Languages  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torbenanderson&layout=compact&langs_count=6&theme=default" alt="Top Langs" width="100%" />
-
+<img src="https://github-readme-stats.vercel.app/api/?username=torbenanderson" alt="Torben's GitHub stats" />
 <p>
   Credit to <a href="https://anuraghazra.github.io/case-studies/github-readme-stats">Github Readme Stats</a>
 </p>
