@@ -17,9 +17,10 @@ I'm **Torben Anderson**, a fractional CTO, founder of [Rewired.co](https://www.r
 </td>
 <td valign="top" style="border: none; padding-left: 16px;">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torbenanderson&layout=compact&langs_count=6&theme=default" alt="Top Langs" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torbenanderson&layout=compact&langs_count=6" alt="Torben Anderson's Top Languages" width="420" />
+
 <p>
-  Credit to <a href="https://anuraghazra.github.io/case-studies/github-readme-stats">Github Readme Stats</a>
+  Credit to <a href="https://anuraghazra.github.io/case-studies/github-readme-stats">GitHub Readme Stats</a>
 </p>
 
 
