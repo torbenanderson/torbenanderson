@@ -22,12 +22,6 @@ I'm **Torben Anderson**, a fractional CTO, founder of [Rewired.co](https://www.r
   <!-- Top Languages Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torbenanderson&theme=dracula&hide_border=true" alt="Top Languages" height="180"/>
 
-  <!-- Or this version if you want all languages in one card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torbenanderson&theme=dracula&hide_border=true" alt="Repos per Language" height="180"/>
-
-  <!-- Optional: productive time + stats card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torbenanderson&theme=dracula&hide_border=true" alt="GitHub Profile Summary" height="180"/>
-
 </div>
 
 
