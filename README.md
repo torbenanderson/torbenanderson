@@ -6,7 +6,7 @@ I'm **Torben Anderson**, a fractional CTO, founder of [Rewired.co](https://www.r
 
 - 🧊 Building [**IceBox**](https://www.icebox.my): a secure, self-owned document & identity vault  
 - 📱 Developing the mobile app for [**TrustPoll**](https://www.trustpoll.io) using **Flutter** — secure, verifiable polling & reputation tech  
-- 💼 Offering **fractional Blockchaicn consulting services** via [Rewired One](https://www.rewired.one) 
+- 💼 Offering **fractional Blockchain consulting services** via [Rewired One](https://www.rewired.one) 
 - 💻 Develop secure, scalable single-page applications and Node-based API portals using React/NextJS and TypeScript, integrating CI/CD.
 - 🧠 Learning **Rust**, **DiDs/DWN**, and **AI-enabled infra** to enhance secure, decentralized solutions
 - ⚙️ Focused on trustless architectures, encrypted storage & verifiable access  
