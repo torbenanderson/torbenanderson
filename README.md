@@ -2,7 +2,7 @@
   <tr>
     <td valign="top" style="border: none; padding-right: 16px;">
 
-I'm **Torben Anderson**, a fractional CTO, founder of [Rewired.one](https://www.rewired.one), from systems of control to freedom.
+I'm **Torben Anderson**, a fractional CTO, founder of [Rewired.co](https://www.rewired.co), from systems of control to freedom.
 
 - 🧊 Building [**IceBox**](https://www.icebox.my): a secure, self-owned document & identity vault  
 - 📱 Developing the mobile app for [**TrustPoll**](https://www.trustpoll.io) using **Flutter** — secure, verifiable polling & reputation tech  
