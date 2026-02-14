@@ -18,20 +18,19 @@ I'm **Torben Anderson**, a fractional CTO, founder of [Rewired.co](https://www.r
 <td valign="top" style="border: none; padding-left: 16px;">
   
 <div align="center">
-
   <!-- Top Languages Card -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torbenanderson&theme=dracula&hide_border=true" alt="Top Languages" height="180"/>
-
+  <br/>
+  <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torbenanderson&theme=nord_dark" alt="Profile Details" height="180"/>
+  <br/>
   <small>
     Cards by 
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
       github-profile-summary-cards
     </a>
   </small>
-
 </div>
-
-
 </td>
   </tr>
 </table>
