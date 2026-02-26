@@ -13,5 +13,6 @@ I'm **Torben Anderson**, a fractional CTO, founder of [Rewired.co](https://www.r
 - 🌎 Based in California, operating globally  
 - 💬 Ask me about decentralization, web3, blockchain and financial services infra. 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/torbenanderson1) • [X / Twitter](https://x.com/torbenanderson)
+- All projects listed here www.torbenanderson.com
   </tr>
 </table>
